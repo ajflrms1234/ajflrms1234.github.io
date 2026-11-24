@@ -1,0 +1,5 @@
+main:
+  - title: "소개"
+    url: /about/
+  - title: "카테고리"
+    url: /categories/
