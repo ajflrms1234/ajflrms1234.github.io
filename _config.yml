@@ -6,9 +6,11 @@ locale: "ko-KR"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # "dark", "air", "mint", "contrast" 등으로 변경 가능
+minimal_mistakes_skin: "dark"
 
 author:
-  name: "내 닉네임"
+  name: "BONGSUN"
+  avatar: "/profile.jpg" # 방금 올린 사진 파일명과 정확히 일치해야 함
   bio: "기록과 정보를 정리하는 공간입니다."
   location: "South Korea"
 
