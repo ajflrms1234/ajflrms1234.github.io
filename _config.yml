@@ -1,0 +1,16 @@
+title: "내 깃허브 블로그"
+description: "기록과 정보를 정리하는 블로그입니다."
+url: "https://ajflrms1234.github.io"
+locale: "ko-KR"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # 다크모드를 원하면 "dark"로 변경
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+search: true
